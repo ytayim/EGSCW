@@ -1,0 +1,14 @@
+Check,P1: Self-Consumption,P2: Tariff-Aware,P3: Optimisation (LP)
+Max energy balance residual,2.220446049250313e-16,4.440892098500626e-16,1.1870337360380376e-15
+Max SOC equation residual,0.0,0.0,1.7763568394002505e-15
+SOC minimum,0.4999999999999999,0.4999999999999999,0.5000000000097945
+SOC maximum,5.0,5.0,4.999999999994053
+End SOC difference (kWh),-2.0,1.5625,0.0
+Terminal SOC adjustment (£),0.3318297222222222,-0.2592419704861111,-0.0
+Simultaneous charge/discharge count,0.0,0.0,0.0
+Simultaneous import/export count,0.0,0.0,0.0
+Battery state residual (kWh),0.0,0.0,5.684341886080802e-14
+Charge limit violations,0.0,0.0,0.0
+Discharge limit violations,0.0,0.0,0.0
+SOC lower bound violations,0.0,0.0,0.0
+SOC upper bound violations,0.0,0.0,0.0
